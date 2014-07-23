@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Calculate</name>
+  </assembly>
+  <members>
+    <member name="M:Calculate.SimpleMath.Sum(System.Double,System.Double)">
+      <summary>
+            Calculates the sum of two floating-point numbers
+            </summary>
+      <param name="a">first floating point addend</param>
+      <param name="b">second floating point addend</param>
+      <returns>sum of two floating-point numbers</returns>
+    </member>
+    <member name="M:Calculate.SimpleMath.Substract(System.Double,System.Double)">
+      <summary>
+             Calculates the diffrence of two floating-point numbers
+            </summary>
+      <param name="a">first floating point subtractive</param>
+      <param name="b">second floating point subtractive</param>
+      <returns>diffrence of two floating-point numbers</returns>
+    </member>
+    <member name="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)">
+      <summary>
+             Calculates the product of two floating-point numbers
+            </summary>
+      <param name="a">first floating point multiplier</param>
+      <param name="b">second floating point multiplier</param>
+      <returns>product of two floating-point numbers</returns>
+    </member>
+    <member name="M:Calculate.SimpleMath.Divide(System.Double,System.Double)">
+      <summary>
+             Calculates the result of division of two floating-point numbers
+            </summary>
+      <param name="a">dividend</param>
+      <param name="b">divisor</param>
+      <returns> division of two floating-point numbers</returns>
+    </member>
+    <member name="N:Calculate">
+      <summary />
+    </member>
+  </members>
+</doc>

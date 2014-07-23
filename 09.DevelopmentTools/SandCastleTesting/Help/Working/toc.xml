@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:Calculate" project="_Namespaces" file="985f3a87-e5f2-1525-d303-423b805bc5f0">
+    <topic id="T:Calculate.SimpleMath" project="Calculate" file="44ce1833-3cd3-170f-3fc8-1ae70b8ba72b">
+      <topic id="M:Calculate.SimpleMath.#ctor" project="Calculate" file="5f07342d-01bd-9284-eb2b-db2ec6616a14" />
+      <topic id="Methods.T:Calculate.SimpleMath" project="Calculate" file="c79f4559-f3f2-fea6-f52f-a9f851c6c5a9">
+        <topic id="M:Calculate.SimpleMath.Divide(System.Double,System.Double)" project="Calculate" file="475b7418-c072-fc88-f7d9-fcad5de512da" />
+        <topic id="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)" project="Calculate" file="a2d345ad-7357-1052-778f-5bbeb2910532" />
+        <topic id="M:Calculate.SimpleMath.Substract(System.Double,System.Double)" project="Calculate" file="b4b3ce5a-f636-8d1a-112d-5cbd87019fa2" />
+        <topic id="M:Calculate.SimpleMath.Sum(System.Double,System.Double)" project="Calculate" file="ea9b709a-b449-4c2b-0850-34ae7e9ea843" />
+      </topic>
+    </topic>
+  </topic>
+</topics>

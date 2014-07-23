@@ -1,0 +1,1 @@
+2014-06-29 10:56:28,473 [11] INFO  Log4NetTesting.Default ?Load Default

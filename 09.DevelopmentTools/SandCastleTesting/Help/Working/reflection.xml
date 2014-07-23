@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reflection xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ddue="urn:ddue-extensions">
+  <assemblies>
+    <assembly name="Calculate">
+      <assemblydata version="1.0.0.0" culture="" key="" hash="SHA1" />
+      <attributes>
+        <attribute>
+          <type api="T:System.Reflection.AssemblyFileVersionAttribute" ref="true" />
+          <argument>
+            <type api="T:System.String" ref="true" />
+            <value>1.0.0.0</value>
+          </argument>
+        </attribute>
+      </attributes>
+    </assembly>
+  </assemblies>
+  <apis>
+    <api id="N:Calculate">
+      <topicdata group="api" />
+      <apidata name="Calculate" group="namespace" />
+      <elements>
+        <element api="T:Calculate.SimpleMath" />
+      </elements>
+      <file name="985f3a87-e5f2-1525-d303-423b805bc5f0" />
+    </api>
+    <api id="T:Calculate.SimpleMath">
+      <topicdata group="api" />
+      <apidata name="SimpleMath" group="type" subgroup="class" />
+      <typedata visibility="public" serializable="false" />
+      <family>
+        <ancestors>
+          <type api="T:System.Object" ref="true" />
+        </ancestors>
+      </family>
+      <elements>
+        <element api="M:System.Object.ToString">
+          <apidata name="ToString" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.String" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Equals(System.Object)">
+          <apidata name="Equals" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <parameters>
+            <parameter name="obj">
+              <type api="T:System.Object" ref="true" />
+            </parameter>
+          </parameters>
+          <returns>
+            <type api="T:System.Boolean" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetHashCode">
+          <apidata name="GetHashCode" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.Int32" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetType">
+          <apidata name="GetType" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Type" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Finalize">
+          <apidata name="Finalize" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="true" />
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.MemberwiseClone">
+          <apidata name="MemberwiseClone" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Object" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:Calculate.SimpleMath.#ctor" />
+        <element api="M:Calculate.SimpleMath.Divide(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Substract(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Sum(System.Double,System.Double)" />
+      </elements>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+        </library>
+        <namespace api="N:Calculate" />
+      </containers>
+      <file name="44ce1833-3cd3-170f-3fc8-1ae70b8ba72b" />
+    </api>
+    <api id="Methods.T:Calculate.SimpleMath">
+      <topicdata name="SimpleMath" group="list" subgroup="Methods" typeTopicId="T:Calculate.SimpleMath" />
+      <apidata name="SimpleMath" group="type" subgroup="class" />
+      <typedata visibility="public" serializable="false" />
+      <elements>
+        <element api="M:System.Object.ToString">
+          <apidata name="ToString" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.String" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Equals(System.Object)">
+          <apidata name="Equals" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <parameters>
+            <parameter name="obj">
+              <type api="T:System.Object" ref="true" />
+            </parameter>
+          </parameters>
+          <returns>
+            <type api="T:System.Boolean" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetHashCode">
+          <apidata name="GetHashCode" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.Int32" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetType">
+          <apidata name="GetType" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Type" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Finalize">
+          <apidata name="Finalize" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="true" />
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.MemberwiseClone">
+          <apidata name="MemberwiseClone" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Object" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:Calculate.SimpleMath.Divide(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Substract(System.Double,System.Double)" />
+        <element api="M:Calculate.SimpleMath.Sum(System.Double,System.Double)" />
+      </elements>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" />
+      </containers>
+      <file name="c79f4559-f3f2-fea6-f52f-a9f851c6c5a9" />
+    </api>
+    <api id="M:Calculate.SimpleMath.#ctor">
+      <topicdata group="api" />
+      <apidata name=".ctor" group="member" subgroup="constructor" />
+      <memberdata visibility="public" special="true" />
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+          <noAptca />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" ref="true" />
+      </containers>
+      <file name="5f07342d-01bd-9284-eb2b-db2ec6616a14" />
+    </api>
+    <api id="M:Calculate.SimpleMath.Divide(System.Double,System.Double)">
+      <topicdata group="api" />
+      <apidata name="Divide" group="member" subgroup="method" />
+      <memberdata visibility="public" static="true" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="a">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+        <parameter name="b">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Double" ref="false" />
+      </returns>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+          <noAptca />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" ref="true" />
+      </containers>
+      <file name="475b7418-c072-fc88-f7d9-fcad5de512da" />
+    </api>
+    <api id="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)">
+      <topicdata group="api" />
+      <apidata name="Multiply" group="member" subgroup="method" />
+      <memberdata visibility="public" static="true" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="a">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+        <parameter name="b">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Double" ref="false" />
+      </returns>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+          <noAptca />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" ref="true" />
+      </containers>
+      <file name="a2d345ad-7357-1052-778f-5bbeb2910532" />
+    </api>
+    <api id="M:Calculate.SimpleMath.Substract(System.Double,System.Double)">
+      <topicdata group="api" />
+      <apidata name="Substract" group="member" subgroup="method" />
+      <memberdata visibility="public" static="true" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="a">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+        <parameter name="b">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Double" ref="false" />
+      </returns>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+          <noAptca />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" ref="true" />
+      </containers>
+      <file name="b4b3ce5a-f636-8d1a-112d-5cbd87019fa2" />
+    </api>
+    <api id="M:Calculate.SimpleMath.Sum(System.Double,System.Double)">
+      <topicdata group="api" />
+      <apidata name="Sum" group="member" subgroup="method" />
+      <memberdata visibility="public" static="true" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="a">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+        <parameter name="b">
+          <type api="T:System.Double" ref="false" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Double" ref="false" />
+      </returns>
+      <containers>
+        <library assembly="Calculate" module="Calculate" kind="DynamicallyLinkedLibrary">
+          <assemblydata version="1.0.0.0 (1.0.0.0)" />
+          <noAptca />
+        </library>
+        <namespace api="N:Calculate" />
+        <type api="T:Calculate.SimpleMath" ref="true" />
+      </containers>
+      <file name="ea9b709a-b449-4c2b-0850-34ae7e9ea843" />
+    </api>
+  </apis>
+</reflection>

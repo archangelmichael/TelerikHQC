@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:Calculate" />
+  <topic id="T:Calculate.SimpleMath" />
+  <topic id="Methods.T:Calculate.SimpleMath" />
+  <topic id="M:Calculate.SimpleMath.#ctor" />
+  <topic id="M:Calculate.SimpleMath.Divide(System.Double,System.Double)" />
+  <topic id="M:Calculate.SimpleMath.Multiply(System.Double,System.Double)" />
+  <topic id="M:Calculate.SimpleMath.Substract(System.Double,System.Double)" />
+  <topic id="M:Calculate.SimpleMath.Sum(System.Double,System.Double)" />
+</topics>

@@ -1,0 +1,2 @@
+In order for this application to work on your PC you must change the path to the logFile.txt in the Web.config file.
+Best of luck, Archangel!

@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML/EN">
+<HTML>
+  <BODY>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Calculate namespace">
+        <param name="Local" value="html/985f3a87-e5f2-1525-d303-423b805bc5f0.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Calculate.SimpleMath class">
+        <param name="Local" value="html/44ce1833-3cd3-170f-3fc8-1ae70b8ba72b.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Divide method">
+        <param name="Local" value="html/475b7418-c072-fc88-f7d9-fcad5de512da.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Multiply method">
+        <param name="Local" value="html/a2d345ad-7357-1052-778f-5bbeb2910532.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath class">
+        <param name="See Also" value="SimpleMath class">
+      </OBJECT></LI>
+      <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="SimpleMath Class">
+          <param name="Local" value="html/44ce1833-3cd3-170f-3fc8-1ae70b8ba72b.htm">
+        </OBJECT></LI>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="about SimpleMath class">
+          <param name="Local" value="html/44ce1833-3cd3-170f-3fc8-1ae70b8ba72b.htm">
+        </OBJECT></LI>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="constructor">
+          <param name="Local" value="html/5f07342d-01bd-9284-eb2b-db2ec6616a14.htm">
+        </OBJECT></LI>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="methods">
+          <param name="Local" value="html/c79f4559-f3f2-fea6-f52f-a9f851c6c5a9.htm">
+        </OBJECT></LI>
+      </UL>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath.Divide method">
+        <param name="Local" value="html/475b7418-c072-fc88-f7d9-fcad5de512da.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath.Multiply method">
+        <param name="Local" value="html/a2d345ad-7357-1052-778f-5bbeb2910532.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath.SimpleMath constructor">
+        <param name="Local" value="html/5f07342d-01bd-9284-eb2b-db2ec6616a14.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath.Substract method">
+        <param name="Local" value="html/b4b3ce5a-f636-8d1a-112d-5cbd87019fa2.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="SimpleMath.Sum method">
+        <param name="Local" value="html/ea9b709a-b449-4c2b-0850-34ae7e9ea843.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Substract method">
+        <param name="Local" value="html/b4b3ce5a-f636-8d1a-112d-5cbd87019fa2.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Sum method">
+        <param name="Local" value="html/ea9b709a-b449-4c2b-0850-34ae7e9ea843.htm">
+      </OBJECT></LI>
+    </UL>
+  </BODY>
+</HTML>

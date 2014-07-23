@@ -1,0 +1,93 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Default Window=MsdnHelp
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+Binary TOC=Yes
+Title=A Sandcastle Documented Class Library
+Default topic=html\985f3a87-e5f2-1525-d303-423b805bc5f0.htm
+Contents file=Documentation.hhc
+Compiled file=Documentation.chm
+Error log file=Documentation.log
+Index file=Documentation.hhk
+Auto Index=Yes
+
+[WINDOWS]
+MsdnHelp="A Sandcastle Documented Class Library","Documentation.hhc","Documentation.hhk","html\985f3a87-e5f2-1525-d303-423b805bc5f0.htm","html\985f3a87-e5f2-1525-d303-423b805bc5f0.htm",,,,,0x62520,220,0x387e,[86,51,886,651],,,,,,,0
+
+[FILES]
+html\44ce1833-3cd3-170f-3fc8-1ae70b8ba72b.htm
+html\475b7418-c072-fc88-f7d9-fcad5de512da.htm
+html\5f07342d-01bd-9284-eb2b-db2ec6616a14.htm
+html\985f3a87-e5f2-1525-d303-423b805bc5f0.htm
+html\a2d345ad-7357-1052-778f-5bbeb2910532.htm
+html\b4b3ce5a-f636-8d1a-112d-5cbd87019fa2.htm
+html\c79f4559-f3f2-fea6-f52f-a9f851c6c5a9.htm
+html\ea9b709a-b449-4c2b-0850-34ae7e9ea843.htm
+icons\alert_caution.gif
+icons\alert_note.gif
+icons\alert_security.gif
+icons\CFW.gif
+icons\CodeExample.png
+icons\favicon.ico
+icons\footer_slice.gif
+icons\privclass.gif
+icons\privdelegate.gif
+icons\privenumeration.gif
+icons\privevent.gif
+icons\privextension.gif
+icons\privfield.gif
+icons\privinterface.gif
+icons\privmethod.gif
+icons\privproperty.gif
+icons\privstructure.gif
+icons\protclass.gif
+icons\protdelegate.gif
+icons\protenumeration.gif
+icons\protevent.gif
+icons\protextension.gif
+icons\protfield.gif
+icons\protinterface.gif
+icons\protmethod.gif
+icons\protoperator.gif
+icons\protproperty.gif
+icons\protstructure.gif
+icons\pubclass.gif
+icons\pubdelegate.gif
+icons\pubenumeration.gif
+icons\pubevent.gif
+icons\pubextension.gif
+icons\pubfield.gif
+icons\pubinterface.gif
+icons\pubmethod.gif
+icons\puboperator.gif
+icons\pubproperty.gif
+icons\pubstructure.gif
+icons\slMobile.gif
+icons\static.gif
+icons\tabLeftBG.gif
+icons\tabRightBG.gif
+icons\xna.gif
+scripts\branding.js
+styles\branding-cs-CZ.css
+styles\branding-de-DE.css
+styles\branding-en-US.css
+styles\branding-es-ES.css
+styles\branding-fr-FR.css
+styles\branding-Help1.css
+styles\branding-Help2.css
+styles\branding-HelpViewer.css
+styles\branding-it-IT.css
+styles\branding-ja-JP.css
+styles\branding-ko-KR.css
+styles\branding-pl-PL.css
+styles\branding-pt-BR.css
+styles\branding-ru-RU.css
+styles\branding-tr-TR.css
+styles\branding-zh-CN.css
+styles\branding-zh-TW.css
+styles\branding.css
+
+
+[INFOTYPES]
